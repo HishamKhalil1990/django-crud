@@ -1,5 +1,5 @@
 ## Getting Started
-* Clone The Repo => `git clone git@github.com:moh-ash96/django-crud.git`
+* Clone The Repo => `git@github.com:HishamKhalil1990/django-crud.git`
 * Install dependencies => `poetry install`
 * Enter shell => `poetry shell`
 * Add migrations => `python manage.py makemigrations`
@@ -13,4 +13,4 @@
     * Added forms for creating updating and deleting snacks.
     * Added Tests.
 ## Pull Request
-[Pull Request Link](https://github.com/moh-ash96/django-crud/pull/1)
+[Pull Request Link](https://github.com/HishamKhalil1990/django-crud/pull/1)
